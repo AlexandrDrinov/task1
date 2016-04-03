@@ -1,6 +1,6 @@
 package task1.entity;
 
-import task1.Constants.Const;
+import task1.constants.Const;
 
 public class Seed {
 

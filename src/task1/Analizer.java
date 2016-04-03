@@ -4,7 +4,7 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import task1.Constants.Const;
+import task1.constants.Const;
 import task1.annotation.Equal;
 import task1.annotation.EqualType;
 import task1.entity.Tomato;
